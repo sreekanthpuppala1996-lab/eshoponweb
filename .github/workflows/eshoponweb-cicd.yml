@@ -9,7 +9,7 @@ env:
   LOCATION: centralus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: c97314d0-0f6a-4fd5-8541-9d07db00960d
-  WEBAPP-NAME: srikantheshop
+  WEBAPP-NAME: srikantheshop1
 
 jobs:
   #Build, test and publish .net web project in repository
